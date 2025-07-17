@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"go_introduction_course/06-functions/function"
+
+	"github.com/EngineerHuayhua/go_introduction_course/06-functions/function"
 )
 
 func main() {
